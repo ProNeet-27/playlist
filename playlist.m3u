@@ -122,3 +122,29 @@ http://45.162.193.35/TVN/index.m3u8
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 #EXTINF:-1 tvg-id="13Festival.cl@SD" tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="Chile",13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
+#EXTINF:-1 group-title="Infantil",Disney Channel West (720p)
+http://206.212.244.63/3146/index.m3u8
+#EXTINF:-1 group-title="Infantil",Disney International HD (1080p)
+http://149.71.34.166:8002/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Infantil",Disney Jr. (1080p)
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 group-title="Infantil",Disney Jr. Latin America (1080p)
+http://177.234.249.178:8888/DISNEY-JR/index.m3u8
+#EXTINF:-1 group-title="Infantil",Disney Jr. Latin America North HD (1080p)
+http://181.78.14.26:4000/play/a073/index.m3u8
+#EXTINF:-1 group-title="Infantil",Disney Jr. Latin America South (1080p)
+http://45.185.163.75:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Infantil",Disney Jr. Latin America South HD (1080p)
+http://45.134.141.161:2200/ARG/Disney_Junior/index.m3u8
+#EXTINF:-1 group-title="Infantil",Disney Junior (576p)
+https://bbb.exoadash.com/TVD1561/index.mpd
+#EXTINF:-1 group-title="Infantil",Disney Junior West (720p)
+http://206.212.244.63/655/index.m3u8
+#EXTINF:-1 group-title="Infantil",Disney XD (720p)
+http://40.160.24.52/DISNEY_XD_HD/index.m3u8
+#EXTINF:-1 group-title="Infantil",Disney XD West (480p)
+http://tvsen5.aynascope.net/disneyxd/index.m3u8
+#EXTINF:-1 group-title="Estados Unidos",District of Columbia Network (DCN) (1080p)
+https://video.oct.dc.gov/out/u/DCN.m3u8
+#EXTINF:-1 group-title="México",Distrito Comedia (1080p)
+http://177.234.249.135:8888/DistritoComedia/index.m3u8
