@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa (1080p)
 http://45.171.108.253:8888/ECUAVISA/index.m3u8
-#EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_Zapping.svg" group-title="Ecuador",Zapping Sports (720p)
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Logotipo_Zapping.svg" group-title="Ecuador",Zapping Sports (720p)
 http://177.234.249.178:8888/GOLTV/index.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa Guayaquil (1080p) [Not 24/7]
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
