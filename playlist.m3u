@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa (1080p)
 http://45.171.108.253:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Zapping_Chile_2020.png/revision/latest?cb=20230728222126&path-prefix=es" group-title="Ecuador",Zapping Sports (1080p)
+http://177.234.249.178:8888/GOLTV/index.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa Guayaquil (1080p) [Not 24/7]
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="Ecuador",Teleamazonas (1080p)
 http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8
 #EXTINF:-1 tvg-id="TCTelevision.ec@SD" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television (1080p)
 http://45.171.108.253:8888/TC/index.m3u8
-#EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Zapping_Chile_2020.png/revision/latest?cb=20230728222126&path-prefix=es" group-title="Ecuador",Zapping Sports (1080p)
-http://177.234.249.178:8888/GOLTV/index.m3u8
 #EXTINF:-1 tvg-id="RTS.ec@SD" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador",RTS (1080p)
 http://45.171.108.253:8888/RTS/index.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador",Gamavision (1080p)
