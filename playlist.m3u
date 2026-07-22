@@ -424,7 +424,7 @@ http://177.234.249.178:8888/DW/index.m3u8
 http://177.234.249.178:8888/EL-GOURMET/index.m3u8
 #EXTINF:-1 tvg-id="Enlace.cr@SD" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Entretenimiento",Enlace (720p)
 http://177.234.249.178:8888/ENLACE/index.m3u8
-#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar@SD" tvg-logo="https://i.imgur.com/RO9Dz3X.png" group-title="Entretenimiento",Quiero Música en mi Idioma (1080p)
+#EXTINF:-1 tvg-id="QuieroMusicaenmiIdioma.ar@SD" tvg-logo="https://i.imgur.com/RO9Dz3X.png" group-title="Entretenimiento",MTV MUSIC (1080p)
 http://177.234.249.178:8888/MTV/index.m3u8
 #EXTINF:-1 tvg-id="Venevision.ve@SD" tvg-logo="https://i.imgur.com/gm1m8hW.png" group-title="Televisión Latina",Venevisión (720p)
 http://177.234.249.178:8888/VENEVISION/index.m3u8
