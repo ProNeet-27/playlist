@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Quito" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa (1080p)
 http://45.171.108.253:8888/ECUAVISA/index.m3u8
+#EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Logotipo_Zapping.svg" group-title="Ecuador",Zapping Sports (720p)
+http://177.234.249.178:8888/GOLTV/index.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa Guayaquil (1080p) [Not 24/7]
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
 #EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/960px-Teleamazonas_Logo.png" group-title="Ecuador",Teleamazonas (1080p)
@@ -9,8 +11,6 @@ http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8
 http://45.171.108.253:8888/TC/index.m3u8
 #EXTINF:-1 tvg-id="RTS.ec@SD" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador",RTS (1080p)
 http://45.171.108.253:8888/RTS/index.m3u8
-#EXTINF:-1 tvg-id="EcuadorTV.ec@SD" tvg-logo="https://i.imgur.com/hj6EYwe.png" group-title="Ecuador",Ecuador TV (1080p)
-http://45.224.97.181:9999/EcuadorTV/index.m3u8
 #EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador",Gamavision (1080p)
 http://45.224.97.181:9999/Gamavision/index.m3u8
 #EXTINF:-1 tvg-id="OromarTV.ec@SD" tvg-logo="https://oromartv.com/images/OTV400.png" group-title="Ecuador",Oromar TV (1080p)
@@ -29,16 +29,12 @@ http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-1 tvg-id="EducaTV.ec@SD" tvg-logo="https://i.imgur.com/nDRVsIc.png" group-title="Ecuador",Educa TV (720p) [Not 24/7]
 https://avm.ecuamedia.net/educatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLegislativa.ec@SD" tvg-logo="https://i.imgur.com/3Y6Lp5l.png" group-title="Ecuador",TV Legislativa (1080p) [Not 24/7]
-https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RTU.ec@SD" tvg-logo="https://i.imgur.com/1OWvMP4.png" group-title="Ecuador",RTU (1080p)
 http://45.224.97.181:9999/RTU/index.m3u8
 #EXTINF:-1 tvg-id="MajestadTelevision.ec@SD" tvg-logo="https://i.imgur.com/d1GWRnm.png" group-title="Ecuador",Majestad Televisión (720p)
 https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 #EXTINF:-1 tvg-id="EcotelTV.ec@SD" tvg-logo="https://i.imgur.com/pVlZUSV.png" group-title="Ecuador",Ecotel TV (720p)
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
-#EXTINF:-1 tvg-id="TVC.ec@SD" tvg-logo="https://i.imgur.com/zhdIwlm.png" group-title="Ecuador",TVC (1080p)
-http://45.224.97.181:9999/TVC/index.m3u8
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Deportes",ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN3.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="Deportes",ESPN 3 (720p)
@@ -47,8 +43,6 @@ http://181.78.197.59:8000/play/a081/index.m3u8
 http://181.78.197.59:8000/play/a07n/index.m3u8
 #EXTINF:-1 tvg-id="ESPNDeportes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/960px-ESPN_Deportes.svg.png" group-title="Deportes",ESPN Deportes (720p)
 http://40.160.24.58/ESPN_DEPORTES/index.m3u8
-#EXTINF:-1 tvg-id="ESPNews.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png" group-title="Deportes",ESPNews (720p)
-http://41.223.30.230/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@SD" tvg-logo="https://i.imgur.com/HiBrysh.png" group-title="Deportes",ESPNU (720p)
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 tvg-id="ESPN8TheOcho.us@ESPN8TheOchoHD" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/espn_8_the_ocho_bw.png" group-title="Deportes",ESPN8 The Ocho (1080p)
@@ -59,129 +53,61 @@ https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
 https://streamvidex.qzz.io/videx/dsports2/index.m3u8
 #EXTINF:-1 tvg-id="DSportsPlus.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/DirecTV_Sports%2B_Latin_America_%282018%29.png/960px-DirecTV_Sports%2B_Latin_America_%282018%29.png" group-title="Deportes",DSports+ (720p)
 https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
-#EXTINF:-1 tvg-id="DSportsUruguay.uy@SD" tvg-logo="https://i.imgur.com/2PoEm1x.png" group-title="Deportes",DSports Uruguay
-https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Deportes",Fox Sports 1 (720p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us@HD" tvg-logo="https://i.imgur.com/LHtxKI8.png" group-title="Deportes",Fox Sports 2
-https://streamvidex.qzz.io/videx/fox2usa/index.m3u8
-#EXTINF:-1 tvg-id="FoxSportsPremium.mx@SD" tvg-logo="https://i.imgur.com/3lOZWeD.png" group-title="Deportes",Fox Sports Premium (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23054
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="Deportes",FOX Sports (1080p)
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-#EXTINF:-1 tvg-id="TUDN.mx@SD" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (1080p)
-https://streaming.alwaysdata.net/tudn.php
 #EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports (1080p)
 http://45.181.87.106/TYCSPORTSHD/index.m3u8
-#EXTINF:-1 tvg-id="TyCSportsUSA.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports USA
-http://45.170.130.224:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD" tvg-logo="https://i.imgur.com/pypul3s.png" group-title="Deportes",GolTV Latin America (720p)
-http://177.234.249.178:8888/GOLTV/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win Sports (1080p)
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-#EXTINF:-1 tvg-id="ClaroSports.mx@SD" tvg-logo="https://i.imgur.com/n0kd17r.png" http-referrer="https://www.clarosports.com/" group-title="Deportes",Claro Sports (720p)
-#EXTVLCOPT:http-referrer=https://www.clarosports.com/
-https://jmp2.uk/plu-6320d2755e54db000783fd87.m3u8
-#EXTINF:-1 tvg-id="NBATV.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" group-title="Deportes",NBA TV (1080p) [Geo-blocked]
-https://amg00556-amg00556c3-firetv-us-6060.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NBATVCanada.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/NBA_TV_Canada_2020.png" group-title="Deportes",NBA TV Canada (1080p)
-http://user.scalecdn.co:8080/live/54706135/09221986/3092.m3u8
 #EXTINF:-1 tvg-id="NFLNetwork.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/960px-NFL_Network_logo.svg.png" group-title="Deportes",NFL Network (720p)
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="MLBNetwork.us@SD" tvg-logo="https://i.imgur.com/sA5V39D.png" group-title="Deportes",MLB Network (720p)
-http://108.181.20.255:27347/livehttpplay?channel_id=23103
 #EXTINF:-1 tvg-id="beINSPORTSXTRAenEspanol.us@SD" tvg-logo="https://i.imgur.com/V562tpO.png" group-title="Deportes",beIN Sports XTRA en Espanol (1080p)
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@HispanicAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Deportes",FIFA+ Hispanic America (720p)
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Deportes",FIFA+ Spain (720p)
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/v4kj8pI.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" group-title="Deportes",Motorvision TV Español (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorvision-tv-espanol/mv_es.m3u8?ads.vf=-bwCJuiaCt8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/960px-UFC_Logo.svg.png" group-title="Deportes",UFC (1080p)
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="Deportes",Realmadrid TV (720p)
 https://jmp2.uk/plu-660d714719ca71000849cc1f.m3u8
-#EXTINF:-1 tvg-id="BarcaTV.es@SD" tvg-logo="https://i.imgur.com/d8x7c8i.png" group-title="Deportes",Barca TV
-https://live20.bozztv.com/dvrfl06/astv/astv-barca/index.m3u8
-#EXTINF:-1 tvg-id="Teledeporte.es@SD" tvg-logo="https://i.ibb.co/0jxLdjnY/TDP.png" group-title="Deportes",Teledeporte (720p) [Geo-blocked]
-https://rtvelivestream.rtve.es/rtvesec/tdp/tdp_main.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.pe@SD" tvg-logo="https://i.imgur.com/Zt3iE86.png" group-title="Deportes",Movistar Deportes (1080p)
-http://45.4.1.201:8000/play/a13e/index.m3u8
-#EXTINF:-1 tvg-id="TigoSports.bo@SD" tvg-logo="https://i.imgur.com/6wkmgGM.png" group-title="Deportes",Tigo Sports (1080p)
-https://master.tucableip.com/Amistoso/index.m3u8
-#EXTINF:-1 tvg-id="TigoSportsPlus.py@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes",Tigo Sports+
-http://45.170.130.224:8000/play/a04i/index.m3u8
-#EXTINF:-1 tvg-id="DeporTV.ar@SD" tvg-logo="https://i.imgur.com/THk9ARS.png" group-title="Deportes",DeporTV (1080p)
-https://edgectc.com/DEPORTES_CTC_PLUS/index.m3u8
-#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Deportes",Azteca Deportes Network (720p)
-http://38.194.226.190:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="BandSports.br@SD" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Deportes",Band Sports (1080p)
-http://143.14.178.40:7777/Band_Sports_HD/index.m3u8
 #EXTINF:-1 tvg-id="CazeTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Deportes",CazeTV (1080i)
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1 tvg-id="Telefe.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe (1080p)
-http://playcom.trapemn.tv:1935/transcoderip/telefe.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina",Telefe Buenos Aires (1080p)
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
 #EXTINF:-1 tvg-id="TelefeInternacional.ar@SD" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Argentina",Telefe Internacional (576p)
 http://190.108.83.69:8000/play/a08l/index.m3u8
-#EXTINF:-1 tvg-id="ElTrece.ar@SD" tvg-logo="https://i.imgur.com/TrgBAdA.png" http-referrer="https://vodgc.net" group-title="Argentina",El Trece (1080p)
-#EXTVLCOPT:http-referrer=https://vodgc.net
-https://livetrx01.vodgc.net/eltrecetv/index.m3u8
-#EXTINF:-1 tvg-id="AmericaTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina",America TV (1080p)
-http://playcom.trapemn.tv:1935/transcoderip/america.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPublicaMarcosPaz.ar@SD" tvg-logo="https://i.imgur.com/CRmY4Oi.png" group-title="Argentina",TV Publica Marcos Paz
-https://online.radiomelody.com.ar:2443/hls/mediospublicos.m3u8
-#EXTINF:-1 tvg-id="TN.ar@SD" tvg-logo="https://i.imgur.com/vFwPhPS.png" group-title="Argentina",TN (2160p)
-https://latam-cache-sv2-cdn.latamlive.net/TN_ENC_LIVE/index.mpd
 #EXTINF:-1 tvg-id="A24.ar@SD" tvg-logo="https://i.imgur.com/LnXQkIU.png" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36" group-title="Argentina",A24 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://g5.vxral-slo.transport.edge-access.net/a12/ngrp:a24-100056_all/playlist.m3u8?sense=true
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina",Canal 26 (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
-#EXTINF:-1 tvg-id="ElNueve.ar@SD" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="Argentina",El Nueve (1080p)
-http://playcom.trapemn.tv:1935/transcoderip/canal9.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar@SD" tvg-logo="https://i.imgur.com/IhJ0BjF.png" group-title="Argentina",NET TV (720p)
 http://45.134.141.161:2200/ARG/Net_TV/index.m3u8
 #EXTINF:-1 tvg-id="BravoTV.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Bravotv.png" group-title="Argentina",Bravo TV (1080p)
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar@SD" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="Argentina",Argentinísima Satelital (540p)
 https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1 tvg-id="CineAr.ar@SD" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Argentina",Cine.Ar (576p)
-http://200.91.32.158:8080/cinear/index.m3u8
 #EXTINF:-1 tvg-id="CanalShowsport.ar@SD" tvg-logo="https://i.imgur.com/0L9tW3Z.png" group-title="Argentina",Canal Showsport (720p)
 https://livestream.lumpentv.com.ar/hls/lumpen.m3u8
-#EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="México",Azteca Uno (1080p)
-http://45.189.62.33:8002/play/a0cc/index.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 (1080p)
-http://45.189.62.33:8002/play/a0fm/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="México",Las Estrellas (1080p)
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="México",Las Estrellas Latin America (1080p)
 http://177.234.249.135:8888/LasEstrellas/index.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México",Canal 5 (1080p)
 http://45.181.87.106/CANAL5HD/index.m3u8
-#EXTINF:-1 tvg-id="ADN40.mx@SD" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="México",ADN 40 (1080p)
-http://45.189.62.33:8002/play/a0ob/index.m3u8
 #EXTINF:-1 tvg-id="MilenioTelevision.mx@SD" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="México",Milenio Televisión (720p)
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 #EXTINF:-1 tvg-id="MultimediosCDMX.mx@SD" tvg-logo="https://i.imgur.com/4IGzNdq.png" group-title="México",Multimedios CDMX (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="XEIPNTDT.mx@SD" tvg-logo="https://i.imgur.com/K0351vF.png" group-title="México",Once México (1080p)
-https://vivo.canaloncelive.tv/securepkgr3/oncemexico/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal22Nacional.mx@SD" tvg-logo="https://i.imgur.com/6qiYvhe.png" group-title="México",Canal 22 Nacional (720p) [Geo-blocked]
 https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Capital21.mx@SD" tvg-logo="https://i.imgur.com/8ign49i.png" group-title="México",Capital 21 (1080p) [Not 24/7]
 https://video.cdmx.gob.mx/redes/stream.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="México",Distrito Comedia (1080p)
 http://177.234.249.135:8888/DistritoComedia/index.m3u8
-#EXTINF:-1 tvg-id="AzCinema.mx@SD" tvg-logo="https://i.imgur.com/B5UN7C8.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" group-title="México",Az Cinema (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/azcinema.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="APlus.mx@SD" tvg-logo="https://i.imgur.com/TWk9gfd.png" group-title="México",A+ (1080p)
-http://45.189.62.33:8002/play/a0oc/index.m3u8
 #EXTINF:-1 tvg-id="Golden.mx@Panregional" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="México",Golden (720p)
 http://177.234.249.135:8888/Golden/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEdge.mx@Panregional" tvg-logo="https://i.imgur.com/SlSbcp3.png" group-title="México",Golden Edge (1080p)
@@ -190,17 +116,9 @@ http://138.186.23.7:8082/GOLDENEDGE/index.m3u8
 http://177.234.249.135:8888/GoldenPlus/index.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="México",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-id="Canal13.cl@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_13_2018.png/revision/latest/scale-to-width-down/512/" group-title="Chile",Canal 13 (1080p)
-http://38.250.127.17:9800/play/a067/index.m3u8
-#EXTINF:-1 tvg-id="ChileVision.cl@SD" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile",ChileVision (1080p)
-http://45.162.193.35/CHILEVISION/index.m3u8
-#EXTINF:-1 tvg-id="Mega.cl@SD" tvg-logo="https://i.imgur.com/RlZfR84.png" group-title="Chile",Mega (1080p)
-http://45.162.193.35/MEGAHD/index.m3u8
 #EXTINF:-1 tvg-id="TVN.cl@SD" tvg-logo="https://i.imgur.com/3FKZHL4.png" group-title="Chile",TVN (1080p)
 http://45.162.193.35/TVN/index.m3u8
 #EXTINF:-1 tvg-id="13C.cl@SD" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Chile",13C (1080p)
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
-#EXTINF:-1 tvg-id="13E.cl@SD" tvg-logo="https://i.imgur.com/utI1tJV.png" group-title="Chile",13 Entretención (720p)
-https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 #EXTINF:-1 tvg-id="13Festival.cl@SD" tvg-logo="https://i.imgur.com/Ymk6j5o.png" group-title="Chile",13 Festival (1080p)
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
