@@ -432,3 +432,5 @@ http://177.234.249.178:8888/ATV/index.m3u8
 http://177.234.249.178:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@SD" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="Televisión Latina",Telemundo Internacional (1080p)
 http://177.234.249.178:8888/TELEMUNDO/index.m3u8
+#EXTINF:-1 tvg-id="tmdb:21208" tvg-logo="" group-title="Películas" year="2009" genre="Terror, Suspenso",La huérfana
+https://1a-1791.com/video/s8/2/Q/y/l/E/QylEj.caa.mp4
