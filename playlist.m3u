@@ -440,6 +440,8 @@ http://177.234.249.178:8888/PANAMERICANA/index.m3u8
 http://177.234.249.178:8888/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="tmdb:21208" tvg-logo="" group-title="Películas" year="2009" genre="Terror, Suspenso",La huérfana
 https://1a-1791.com/video/s8/2/Q/y/l/E/QylEj.caa.mp4
+#EXTINF:-1 tvg-id="tmdb:14285" tvg-logo="" group-title="Películas" year="2007" genre="Terror, Suspenso",El Despertar del Diablo 2
+https://hugh.cdn.rumble.cloud/video/fw/s8/2/I/u/B/k/IuBkr.aaa.mp4
 
 #EXTINF:-1 tvg-id="tmdb:8643" tvg-logo="" group-title="Películas" year="2005" genre="Terror, Drama, Suspenso",El exorcismo de Emily Rose
 https://1a-1791.com/video/fww1/b2/s8/2/X/t/N/O/XtNOy.aaa.mp4
