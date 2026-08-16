@@ -608,3 +608,9 @@ https://huggingface.co/datasets/Dbgtgt/gtbbbdtgt/resolve/main/cdtg/1%20Dbsu/dg%2
 https://huggingface.co/datasets/Dbgtgt/gtbbbdtgt/resolve/main/cdtg/2%20Dvsall/dg%20(2).mkv-muxed.mp4
 #EXTINF:-1 tvg-id="tmdb:12697" tvg-logo="" group-title="Series Animadas" year="1996" genre="Animación",Dragon Ball GT T01-E03
 https://huggingface.co/datasets/Dbgtgt/gtbbbdtgt/resolve/main/cdtg/3%20Dvsill/dg%20(3).mkv-muxed.mp4
+#EXTINF:-1 tvg-id="tmdb:62715" tvg-logo="" group-title="Series Animadas" year="2015" genre="Animación",Dragon Ball Super T01-E01
+https://huggingface.co/datasets/Drakesuper/rodridre/resolve/main/dsup/Dbsu/1.mp4
+#EXTINF:-1 tvg-id="tmdb:62715" tvg-logo="" group-title="Series Animadas" year="2015" genre="Animación",Dragon Ball Super T01-E02
+https://huggingface.co/datasets/Drakesuper/rodridre/resolve/main/dsup/Dvsall/s2.mkv-muxed.mp4
+#EXTINF:-1 tvg-id="tmdb:62715" tvg-logo="" group-title="Series Animadas" year="2015" genre="Animación",Dragon Ball Super T01-E03
+https://huggingface.co/datasets/Drakesuper/rodridre/resolve/main/dsup/Dvsill/s3.mkv-muxed.mp4
