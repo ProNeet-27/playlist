@@ -590,3 +590,21 @@ https://1a-1791.com/video/s8/2/H/j/k/q/Hjkqs.aaa.mp4
 https://hugh.cdn.rumble.cloud/video/s8/2/W/S/k/q/WSkqs.aaa.mp4
 #EXTINF:-1 tvg-id="tmdb:94997" tvg-logo="" group-title="Series" year="2022" genre="Fantasía",La casa del dragón T01-E03
 https://1a-1791.com/video/s8/2/2/4/l/q/24lqs.aaa.mp4
+#EXTINF:-1 tvg-id="tmdb:12609" tvg-logo="" group-title="Series Animadas" year="1986" genre="Animación",Dragon Ball T01-E01
+https://huggingface.co/datasets/Rentoddb/dbsuera/resolve/main/nino/1%20Dbsu/db%20(1).mp4
+#EXTINF:-1 tvg-id="tmdb:12609" tvg-logo="" group-title="Series Animadas" year="1986" genre="Animación",Dragon Ball T01-E02
+https://huggingface.co/datasets/Rentoddb/dbsuera/resolve/main/nino/2%20Dvsall/db%20(2).mp4
+#EXTINF:-1 tvg-id="tmdb:12609" tvg-logo="" group-title="Series Animadas" year="1986" genre="Animación",Dragon Ball T01-E03
+https://huggingface.co/datasets/Rentoddb/dbsuera/resolve/main/nino/3%20Dvsill/db%20(3).mp4
+#EXTINF:-1 tvg-id="tmdb:12971" tvg-logo="" group-title="Series Animadas" year="1989" genre="Animación",Dragon Ball Z T01-E01
+https://huggingface.co/datasets/Dagonulca/figofigofigofigo/resolve/main/dz/1%20Dbsu/s%20%281%29.mp4
+#EXTINF:-1 tvg-id="tmdb:12971" tvg-logo="" group-title="Series Animadas" year="1989" genre="Animación",Dragon Ball Z T01-E02
+https://huggingface.co/datasets/Dagonulca/figofigofigofigo/resolve/main/dz/2%20Dvsall/s%20(2).mp4
+#EXTINF:-1 tvg-id="tmdb:12971" tvg-logo="" group-title="Series Animadas" year="1989" genre="Animación",Dragon Ball Z T01-E03
+https://huggingface.co/datasets/Dagonulca/figofigofigofigo/resolve/main/dz/3%20Dvsill/s%20(3).mp4
+#EXTINF:-1 tvg-id="tmdb:12697" tvg-logo="" group-title="Series Animadas" year="1996" genre="Animación",Dragon Ball GT T01-E01
+https://huggingface.co/datasets/Dbgtgt/gtbbbdtgt/resolve/main/cdtg/1%20Dbsu/dg%20(1).mkv-muxed.mp4
+#EXTINF:-1 tvg-id="tmdb:12697" tvg-logo="" group-title="Series Animadas" year="1996" genre="Animación",Dragon Ball GT T01-E02
+https://huggingface.co/datasets/Dbgtgt/gtbbbdtgt/resolve/main/cdtg/2%20Dvsall/dg%20(2).mkv-muxed.mp4
+#EXTINF:-1 tvg-id="tmdb:12697" tvg-logo="" group-title="Series Animadas" year="1996" genre="Animación",Dragon Ball GT T01-E03
+https://huggingface.co/datasets/Dbgtgt/gtbbbdtgt/resolve/main/cdtg/3%20Dvsill/dg%20(3).mkv-muxed.mp4
