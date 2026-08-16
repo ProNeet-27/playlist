@@ -440,6 +440,16 @@ http://177.234.249.178:8888/PANAMERICANA/index.m3u8
 http://177.234.249.178:8888/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-id="tmdb:21208" tvg-logo="" group-title="Películas" year="2009" genre="Terror, Suspenso",La huérfana
 https://1a-1791.com/video/s8/2/Q/y/l/E/QylEj.caa.mp4
+
+#EXTINF:-1 tvg-id="tmdb:8643" tvg-logo="" group-title="Películas" year="2005" genre="Terror, Drama, Suspenso",El exorcismo de Emily Rose
+https://1a-1791.com/video/fww1/b2/s8/2/X/t/N/O/XtNOy.aaa.mp4
+#EXTINF:-1 tvg-id="tmdb:250546" tvg-logo="" group-title="Películas" year="2014" genre="Terror, Misterio",Annabelle
+https://hugh.cdn.rumble.cloud/video/s8/2/Z/0/7/Z/Z07Zn.caa.mp4
+#EXTINF:-1 tvg-id="tmdb:1100782" tvg-logo="" group-title="Películas" year="2024" genre="Terror, Misterio",Smile 2
+https://1a-1791.com/video/fww1/83/s8/2/6/c/_/N/6c_NA.aaa.mp4
+#EXTINF:-1 tvg-id="tmdb:882598" tvg-logo="" group-title="Películas" year="2022" genre="Terror, Misterio",Smile
+https://1a-1791.com/video/s8/2/q/c/5/E/qc5Ej.caa.mp4
+
 #EXTINF:-1 tvg-id="tmdb:969681" tvg-logo="" group-title="Películas" year="2026" genre="Acción, Aventura, Ciencia ficción",Spider-Man: Un nuevo día
 https://1a-1791.com/video/fww1/03/s8/2/W/h/m/L/WhmLA.aaa.mp4
 #EXTINF:-1 tvg-id="tmdb:315635" tvg-logo="" group-title="Películas" year="2017" genre="Acción, Aventura, Ciencia ficción",Spider-Man: De regreso a casa
