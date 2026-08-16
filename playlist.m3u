@@ -438,11 +438,13 @@ http://177.234.249.178:8888/ATV/index.m3u8
 http://177.234.249.178:8888/PANAMERICANA/index.m3u8
 #EXTINF:-1 tvg-id="TelemundoInternacional.us@SD" tvg-logo="https://i.imgur.com/j2O4ndp.png" group-title="Televisión Latina",Telemundo Internacional (1080p)
 http://177.234.249.178:8888/TELEMUNDO/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="tmdb:21208" tvg-logo="" group-title="Películas" year="2009" genre="Terror, Suspenso",La huérfana
 https://1a-1791.com/video/s8/2/Q/y/l/E/QylEj.caa.mp4
 #EXTINF:-1 tvg-id="tmdb:9793" tvg-logo="" group-title="Películas" year="2007" genre="Terror, Suspenso",El Despertar del Diablo 2
 https://hugh.cdn.rumble.cloud/video/fw/s8/2/I/u/B/k/IuBkr.aaa.mp4
-
 #EXTINF:-1 tvg-id="tmdb:8643" tvg-logo="" group-title="Películas" year="2005" genre="Terror, Drama, Suspenso",El exorcismo de Emily Rose
 https://1a-1791.com/video/fww1/b2/s8/2/X/t/N/O/XtNOy.aaa.mp4
 #EXTINF:-1 tvg-id="tmdb:250546" tvg-logo="" group-title="Películas" year="2014" genre="Terror, Misterio",Annabelle
@@ -499,7 +501,7 @@ https://1a-1791.com/video/fww1/15/s8/2/E/_/k/S/E_kSz.aaa.mp4
 #EXTINF:-1 tvg-id="tmdb:257344" tvg-logo="" group-title="Películas" year="2015" genre="Acción, Comedia, Ciencia ficción",Pixeles
 https://hugh.cdn.rumble.cloud/video/fwe2/95/s8/2/g/h/Y/q/ghYqz.aaa.mp4
 #EXTINF:-1 tvg-id="tmdb:980431" tvg-logo="" group-title="Películas" year="2026" genre="Animación, Acción, Aventura, Fantasía",Avatar: Aang, El último Maestro Aire
-https://1a-1791.com/video/fwe2/83/s8/2/o/R/S/K/oRSKA.aaa.mp4
+https://hugh.cdn.rumble.cloud/video/fwe2/d7/s8/2/-/J/I/K/-JIKA.aaa.mp4
 #EXTINF:-1 tvg-id="tmdb:1081003" tvg-logo="" group-title="Películas" year="2026" genre="Acción, Aventura, Ciencia ficción",Supergirl
 https://hugh.cdn.rumble.cloud/video/fwe2/78/s8/2/M/i/h/K/MihKA.aaa.mp4
 #EXTINF:-1 tvg-id="tmdb:1858" tvg-logo="" group-title="Películas" year="2007" genre="Acción, Aventura, Ciencia ficción",Transformers
