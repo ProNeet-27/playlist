@@ -37,9 +37,9 @@ https://videoserver.tmcreativos.com:19360/majestadtv/majestadtv.m3u8
 https://ecoteltv.streamseguro.com:5443/LiveApp/streams/streaming.m3u8
 
 #EXTINF:-1 tvg-id="DirectvSports.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Directv_Sports_Logo.png/320px-Directv_Sports_Logo.png" group-title="Eventos",DIRECTV Sports (HD)
-http://209.46.124.99:8081/evento/2.m3u8
-#EXTINF:-1 tvg-id="ESPN.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/320px-ESPN_logo.svg.png" group-title="Eventos",ESPN Prueba HD
 http://209.46.124.99:8081/evento/1.m3u8
+#EXTINF:-1 tvg-id="ESPN.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_logo.svg/320px-ESPN_logo.svg.png" group-title="Eventos",ESPN Prueba HD
+http://209.46.124.99:8081/evento/2.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Deportes",Fox Sports 1 (1080p)
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
