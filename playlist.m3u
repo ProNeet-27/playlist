@@ -4,7 +4,7 @@ http://45.171.108.253:8888/ECUAVISA/index.m3u8
 
 #EXTINF:-1 tvg-id="GolTVLatinAmerica.us@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Zapping_Chile_2020.png/revision/latest?cb=20230728222126&path-prefix=es" group-title="Eventos",Zapping Sports 2(1080p)
 http://177.234.249.178:8888/GOLTV/index.m3u8
-#EXTINF:-1 tvg-id="DirectvSports.ec" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Directv_Sports_Logo.png/320px-Directv_Sports_Logo.png" group-title="Eventos",Cerro Porteño vs Palmeiras
+#EXTINF:-1 tvg-id="ESPN.ec" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-1280x768.png" group-title="Eventos",Cerro Porteño vs Palmeiras
 https://cdn.gambeta.vip/fl/espn.m3u8?k=64496c85ec32596507ea9614
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa Guayaquil (1080p) [Not 24/7]
