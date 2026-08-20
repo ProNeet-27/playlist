@@ -61,7 +61,7 @@ https://streamvidex.qzz.io/videx/dsportsar/index.m3u8
 https://streamvidex.qzz.io/videx/dsports2/index.m3u8
 #EXTINF:-1 tvg-id="DSportsPlus.us@Panregional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="Deportes",DSports+ (720p)
 https://streamvidex.qzz.io/videx/dsportsplus/index.m3u8
-#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports (1080p)
+#EXTINF:-1 tvg-id="TyCSports.ar@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TyCSports2026.svg/revision/latest?cb=20260601172151&path-prefix=es" group-title="Deportes",TyC Sports (1080p)
 http://45.181.87.106/TYCSPORTSHD/index.m3u8
 #EXTINF:-1 tvg-id="WinSports.co@SD" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes",Win Sports (1080p)
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
