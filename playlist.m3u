@@ -15,7 +15,7 @@ http://45.171.108.253:8888/TELEAMAZONAS/index.m3u8
 http://45.171.108.253:8888/TC/index.m3u8
 #EXTINF:-1 tvg-id="RTS.ec@SD" tvg-logo="https://i.imgur.com/PML8cJA.png" group-title="Ecuador",RTS (1080p)
 http://45.171.108.253:8888/RTS/index.m3u8
-#EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Gamavisi%C3%B3n2018new.png" group-title="Ecuador",Gamavision (1080p)
+#EXTINF:-1 tvg-id="Gamavision.ec@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Gamavisi%C3%B3n_%282018%29.svg/revision/latest?cb=20211222014419&path-prefix=es" group-title="Ecuador",Gamavision (1080p)
 http://45.224.97.181:9999/Gamavision/index.m3u8
 #EXTINF:-1 tvg-id="OromarTV.ec@SD" tvg-logo="https://oromartv.com/images/OTV400.png" group-title="Ecuador",Oromar TV (1080p)
 http://45.224.97.181:9999/Oromar/index.m3u8
