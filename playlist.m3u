@@ -63,24 +63,15 @@ http://209.46.124.99:8081/canal/11.m3u8
 #--------------------------------------------------------------------
 #  ⚽  EVENTOS EN VIVO  ⚽
 #--------------------------------------------------------------------
-#EXTINF:-1 tvg-id="Evento5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",Universitario vs Los Chankas
-http://209.46.124.99:8081/evento/5.m3u8
-#EXTINF:-1 tvg-id="Evento6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",Real Tomayapo vs Always Ready
-http://209.46.124.99:8081/evento/6.m3u8
-#EXTINF:-1 tvg-id="Evento7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",Curicó Unido vs Unión San Felipe
-http://209.46.124.99:8081/evento/7.m3u8
-#EXTINF:-1 tvg-id="Evento8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",Deportivo Cali vs Inter Bogotá
-http://209.46.124.99:8081/evento/8.m3u8
-#EXTINF:-1 tvg-id="Evento9" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",Atlético San Luis vs Pachuca
-http://209.46.124.99:8081/evento/9.m3u8
-#EXTINF:-1 tvg-id="Evento10" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",River Plate vs Vélez Sarsfield
-http://209.46.124.99:8081/evento/10.m3u8
-#EXTINF:-1 tvg-id="Evento11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",Coritiba vs Corinthians
+#EXTINF:-1 tvg-id="Evento4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",Racing Club vs Boca Juniors
+http://209.46.124.99:8081/evento/4.m3u8
+#EXTINF:-1 tvg-id="Evento2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",Pumas UNAM vs Necaxasa
+http://209.46.124.99:8081/evento/2.m3u8
+#EXTINF:-1 tvg-id="Evento1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",Junior vs Once Caldas
+http://209.46.124.99:8081/evento/1.m3u8
+#EXTINF:-1 tvg-id="Evento11" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",Alajuelense vs San Carlos
 http://209.46.124.99:8081/evento/11.m3u8
-#EXTINF:-1 tvg-id="Evento12" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",Atlanta United vs Sporting KC
-http://209.46.124.99:8081/evento/12.m3u8
-#EXTINF:-1 tvg-id="Evento13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",O'Higgins vs Palestino
-http://209.46.124.99:8081/evento/13.m3u8
+
 
 
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1920px-Fox_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Deportes",Fox Sports 1 (1080p)
