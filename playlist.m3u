@@ -43,46 +43,48 @@ http://209.46.124.99:8081/canal/1.m3u8
 http://209.46.124.99:8081/canal/2.m3u8
 #EXTINF:-1 tvg-id="DSportsPlus.us@Panregional" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest?cb=20221115002318&path-prefix=es" group-title="Deportes",Directv Sports Plus
 http://209.46.124.99:8081/canal/3.m3u8
-#EXTINF:-1 tvg-id="ESPN.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-id="ESPN.lam@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png" group-title="Deportes",ESPN
 http://209.46.124.99:8081/canal/4.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.lam@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-2-lam.png" group-title="Deportes",ESPN 2
 http://209.46.124.99:8081/canal/5.m3u8
-#EXTINF:-1 tvg-id="ESPN3.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-3-us.png" group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.lam@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png" group-title="Deportes",ESPN 3
 http://209.46.124.99:8081/canal/6.m3u8
-#EXTINF:-1 tvg-id="ESPN5.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/espn-5-int.png" group-title="Deportes",ESPN 5
+#EXTINF:-1 tvg-id="ESPN5.lam@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-5-lam.png" group-title="Deportes",ESPN 5
 http://209.46.124.99:8081/canal/7.m3u8
-#EXTINF:-1 tvg-id="ESPN6.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/espn-6-int.png" group-title="Deportes",ESPN 6
+#EXTINF:-1 tvg-id="ESPN6.lam@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-6-lam.png" group-title="Deportes",ESPN 6
 http://209.46.124.99:8081/canal/8.m3u8
-#EXTINF:-1 tvg-id="ESPN7.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/espn-7-int.png" group-title="Deportes",ESPN 7
+#EXTINF:-1 tvg-id="ESPN7.lam@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-7-lam.png" group-title="Deportes",ESPN 7
 http://209.46.124.99:8081/canal/9.m3u8
-#EXTINF:-1 tvg-id="ESPNPremium.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/espn-premium-int.png" group-title="Deportes",ESPN Premium
+#EXTINF:-1 tvg-id="ESPNPremium.lam@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-premium-lam.png" group-title="Deportes",ESPN Premium
 http://209.46.124.99:8081/canal/10.m3u8
-#EXTINF:-1 tvg-id="ESPN.mx@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/espn-mx.png" group-title="Deportes",ESPN Mexico
+#EXTINF:-1 tvg-id="ESPN.mx@Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-lam.png" group-title="Deportes",ESPN Mexico
 http://209.46.124.99:8081/canal/11.m3u8
-#EXTINF:-1 tvg-id="ESPN2.mx@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/espn-2-mx.png" group-title="Deportes",ESPN 2 Mexico
+#EXTINF:-1 tvg-id="ESPN2.mx@Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-2-lam.png" group-title="Deportes",ESPN 2 Mexico
 http://209.46.124.99:8081/canal/12.m3u8
-#EXTINF:-1 tvg-id="ESPN3.mx@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/espn-3-mx.png" group-title="Deportes",ESPN 3 Mexico
+#EXTINF:-1 tvg-id="ESPN3.mx@Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png" group-title="Deportes",ESPN 3 Mexico
 http://209.46.124.99:8081/canal/13.m3u8
-#EXTINF:-1 tvg-id="ESPN4.mx@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/espn-4-mx.png" group-title="Deportes",ESPN 4 Mexico
+#EXTINF:-1 tvg-id="ESPN4.mx@Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-4-lam.png" group-title="Deportes",ESPN 4 Mexico
 http://209.46.124.99:8081/canal/14.m3u8
-#EXTINF:-1 tvg-id="FoxSports.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-us.png" group-title="Deportes",Fox Sports
+#EXTINF:-1 tvg-id="FoxSports.lam@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-lam.png" group-title="Deportes",Fox Sports
 http://209.46.124.99:8081/canal/15.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="Deportes",Fox Sports 2
+#EXTINF:-1 tvg-id="FoxSports2.lam@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-2-lam.png" group-title="Deportes",Fox Sports 2
 http://209.46.124.99:8081/canal/16.m3u8
-#EXTINF:-1 tvg-id="FoxSports3.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-3-us.png" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-id="FoxSports3.lam@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-3-lam.png" group-title="Deportes",Fox Sports 3
 http://209.46.124.99:8081/canal/17.m3u8
-#EXTINF:-1 tvg-id="FoxSports.mx@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/fox-sports-mx.png" group-title="Deportes",Fox Sports Mexico
+#EXTINF:-1 tvg-id="FoxSports.mx@Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-lam.png" group-title="Deportes",Fox Sports Mexico
 http://209.46.124.99:8081/canal/18.m3u8
-#EXTINF:-1 tvg-id="FoxSports2.mx@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/fox-sports-2-mx.png" group-title="Deportes",Fox Sports 2 Mexico
+#EXTINF:-1 tvg-id="FoxSports2.mx@Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-2-lam.png" group-title="Deportes",Fox Sports 2 Mexico
 http://209.46.124.99:8081/canal/19.m3u8
-#EXTINF:-1 tvg-id="FoxSportsPremium.mx@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/fox-sports-premium-mx.png" group-title="Deportes",Fox Sports Premium
+#EXTINF:-1 tvg-id="FoxSportsPremium.mx@Mexico" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/mexico/fox-sports-premium-mx.png" group-title="Deportes",Fox Sports Premium
 http://209.46.124.99:8081/canal/20.m3u8
-#EXTINF:-1 tvg-id="Liga1Max.pe@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/peru/liga-1-max-pe.png" group-title="Deportes",Liga 1 Max
+#EXTINF:-1 tvg-id="Liga1Max.pe@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/fox-sports-2-lam.png" group-title="Deportes",Liga 1 Max
 http://209.46.124.99:8081/canal/21.m3u8
 #EXTINF:-1 tvg-id="TUDN.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" group-title="Deportes",TUDN
 http://209.46.124.99:8081/canal/22.m3u8
 #EXTINF:-1 tvg-id="beINSportsXtra.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-title="Deportes",BeIN Sports Xtra
 http://209.46.124.99:8081/canal/23.m3u8
+
+
 
 #--------------------------------------------------------------------
 #  ⚽  EVENTOS EN VIVO  ⚽
