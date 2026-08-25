@@ -87,29 +87,29 @@ http://209.46.124.99:8081/canal/23.m3u8
 #--------------------------------------------------------------------
 #  ⚽  EVENTOS EN VIVO  ⚽
 #--------------------------------------------------------------------
-#EXTINF:-1 tvg-id="Evento1.ar@TNTSports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png" group-title="Deportes",Al Ittifaq vs Al Nassr
+#EXTINF:-1 tvg-id="Evento1.ar@TNTSports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png" group-title="Eventos",Al Ittifaq vs Al Nassr
 http://209.46.124.99:8081/evento/1.m3u8
-#EXTINF:-1 tvg-id="Evento2.us@HBOMax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="Deportes",Cardiff City vs Norwich City
+#EXTINF:-1 tvg-id="Evento2.us@HBOMax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="Eventos",Cardiff City vs Norwich City
 http://209.46.124.99:8081/evento/2.m3u8
-#EXTINF:-1 tvg-id="Evento3.lam@ESPN2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-2-lam.png" group-title="Deportes",Valencia vs Real Betis
+#EXTINF:-1 tvg-id="Evento3.lam@ESPN2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-2-lam.png" group-title="Eventos",Valencia vs Real Betis
 http://209.46.124.99:8081/evento/3.m3u8
-#EXTINF:-1 tvg-id="Evento4.us@Fanatiz" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Fanatiz%20Logo.png" group-title="Deportes",General Caballero JLM vs Rubio Ñú
+#EXTINF:-1 tvg-id="Evento4.us@Fanatiz" tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Fanatiz%20Logo.png" group-title="Eventos",General Caballero JLM vs Rubio Ñú
 http://209.46.124.99:8081/evento/4.m3u8
-#EXTINF:-1 tvg-id="Evento5.us@ParamountPlus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Deportes",Nottingham Forest vs Leeds United
+#EXTINF:-1 tvg-id="Evento5.us@ParamountPlus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Eventos",Nottingham Forest vs Leeds United
 http://209.46.124.99:8081/evento/5.m3u8
-#EXTINF:-1 tvg-id="Evento6.us@ParamountPlus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Deportes",Bodø/Glimt vs NEC
+#EXTINF:-1 tvg-id="Evento6.us@ParamountPlus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Eventos",Bodø/Glimt vs NEC
 http://209.46.124.99:8081/evento/6.m3u8
-#EXTINF:-1 tvg-id="Evento7.lam@ESPN5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-5-lam.png" group-title="Deportes",LASK Linz vs Celtic
+#EXTINF:-1 tvg-id="Evento7.lam@ESPN5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-5-lam.png" group-title="Eventos",LASK Linz vs Celtic
 http://209.46.124.99:8081/evento/7.m3u8
-#EXTINF:-1 tvg-id="Evento8.lam@ESPN3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png" group-title="Deportes",Bodø/Glimt vs NEC
+#EXTINF:-1 tvg-id="Evento8.lam@ESPN3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-3-lam.png" group-title="Eventos",Bodø/Glimt vs NEC
 http://209.46.124.99:8081/evento/8.m3u8
-#EXTINF:-1 tvg-id="Evento9.us@ParamountPlus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Deportes",GV Gualberto Villarroel SJ vs Oriente Petrolero
+#EXTINF:-1 tvg-id="Evento9.us@ParamountPlus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Eventos",GV Gualberto Villarroel SJ vs Oriente Petrolero
 http://209.46.124.99:8081/evento/9.m3u8
-#EXTINF:-1 tvg-id="Evento10.lam@ESPN2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-2-lam.png" group-title="Deportes",Ipswich Town vs Leicester City
+#EXTINF:-1 tvg-id="Evento10.lam@ESPN2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/espn-2-lam.png" group-title="Eventos",Ipswich Town vs Leicester City
 http://209.46.124.99:8081/evento/10.m3u8
-#EXTINF:-1 tvg-id="Evento11.us@FoxDeportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-deportes-us.png" group-title="Deportes",Southampton vs West Ham United
+#EXTINF:-1 tvg-id="Evento11.us@FoxDeportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-deportes-us.png" group-title="Eventos",Southampton vs West Ham United
 http://209.46.124.99:8081/evento/11.m3u8
-#EXTINF:-1 tvg-id="Evento12.us@ParamountPlus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Deportes",Sheffield Wednesday vs Wolverhampton
+#EXTINF:-1 tvg-id="Evento12.us@ParamountPlus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Eventos",Sheffield Wednesday vs Wolverhampton
 http://209.46.124.99:8081/evento/12.m3u8
 
 
