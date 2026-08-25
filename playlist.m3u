@@ -5,7 +5,7 @@ https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223
 http://177.234.249.178:8888/GOLTV/index.m3u8
 #EXTINF:-1 tvg-id="Ecuavisa.ec@Guayaquil" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Ecuador",Ecuavisa Play
 https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
-#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Ecuador",Teleamazonas
+#EXTINF:-1 tvg-id="Teleamazonas.ec@Quito" tvg-logo="https://commons.wikimedia.org/wiki/Special:Redirect/file/Logoteleamazonas.png" group-title="Ecuador",Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 #EXTINF:-1 tvg-id="TCTelevision.ec@SD" tvg-logo="https://i.imgur.com/okK02EN.png" group-title="Ecuador",TC Television
 http://45.224.97.181:9999/TC/index.m3u8
