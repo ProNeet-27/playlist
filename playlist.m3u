@@ -89,10 +89,16 @@ http://209.46.124.99:8081/canal/23.m3u8
 #--------------------------------------------------------------------
 #  ⚽  EVENTOS EN VIVO  ⚽
 #--------------------------------------------------------------------
-#EXTINF:-1 tvg-id="Evento4" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-1280x768.png" group-title="Eventos", Sabah vs Hapoel Be'er
-http://209.46.124.99:8081/evento/4.m3u8
-#EXTINF:-1 tvg-id="Evento4" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-1280x768.png" group-title="Eventos", San Martín San Juan vs Huracán
+#EXTINF:-1 tvg-id="Evento1.us@FoxDeportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-deportes-us.png" group-title="Deportes",Al Ittifaq vs Al Nassr Liga Profesional Saudí
+http://209.46.124.99:8081/evento/1.m3u8
+#EXTINF:-1 tvg-id="Evento2.us@ParamountPlus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/paramount-plus-us.png" group-title="Deportes",Cardiff City vs Norwich City EFL Cup
+http://209.46.124.99:8081/evento/2.m3u8
+#EXTINF:-1 tvg-id="Evento3.ar@TNTSports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tnt-sports-ar.png" group-title="Deportes",San Martín San Juan vs Huracán Torneo de Reserva
 http://209.46.124.99:8081/evento/3.m3u8
+#EXTINF:-1 tvg-id="Evento4.us@HBOMax" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hbo-max-us.png" group-title="Deportes",Sabah vs Hapoel Be'er Sheva UEFA Champions League
+http://209.46.124.99:8081/evento/4.m3u8
+#EXTINF:-1 tvg-id="Evento5.us@FoxDeportes" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-deportes-us.png" group-title="Deportes",Abha vs Al Khaleej Liga Profesional Saudí
+http://209.46.124.99:8081/evento/5.m3u8
 
 
 
