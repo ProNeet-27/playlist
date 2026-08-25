@@ -63,12 +63,12 @@ http://209.46.124.99:8081/canal/11.m3u8
 #--------------------------------------------------------------------
 #  ⚽  EVENTOS EN VIVO  ⚽
 #--------------------------------------------------------------------
-#EXTINF:-1 tvg-id="Evento4" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-1280x768.png" group-title="Eventos",Fulham vs Chelsea
+#EXTINF:-1 tvg-id="Evento4" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-1280x768.png" group-title="Eventos", Sabah vs Hapoel Be'er
+http://209.46.124.99:8081/evento/4.m3u8
+#EXTINF:-1 tvg-id="Evento4" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-1280x768.png" group-title="Eventos", San Martín San Juan vs Huracán
 http://209.46.124.99:8081/evento/3.m3u8
-#EXTINF:-1 tvg-id="Evento2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DSports_2022.png/revision/latest?cb=20221114235431&path-prefix=es" group-title="Eventos",Al Ittihad vs Al Hazm
-http://209.46.124.99:8081/evento/5.m3u8
-#EXTINF:-1 tvg-id="Evento1" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN-1280x768.png" group-title="Eventos",Roma vs Fiorentina
-http://209.46.124.99:8081/canal/5.m3u8
+
+
 
 
 
