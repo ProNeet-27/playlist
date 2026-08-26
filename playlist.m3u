@@ -89,9 +89,9 @@ http://209.46.124.99:8081/canal/24.m3u8
 #--------------------------------------------------------------------
 #  ⚽  EVENTOS EN VIVO  ⚽
 #--------------------------------------------------------------------
-#EXTINF:-1 tvg-id="Evento1.co@LigaBetPlay" tvg-logo="https://assets.footylogos.com/logos/categora-primera-a-colombia/categora-primera-a-colombia-logo-footylogos.svg" group-title="Eventos",Cúcuta Deportivo vs Alianza
+#EXTINF:-1 tvg-id="Evento1.co@LigaBetPlay" tvg-logo="https://imgur.com/a/OoUbxI7" group-title="Eventos",Cúcuta Deportivo vs Alianza
 http://209.46.124.99:8081/evento/1.m3u8
-#EXTINF:-1 tvg-id="Evento2.co@LigaBetPlay" tvg-logo="https://assets.footylogos.com/logos/categora-primera-a-colombia/categora-primera-a-colombia-logo-footylogos.svg" group-title="Eventos",Santa Fe vs Jaguares de Córdoba
+#EXTINF:-1 tvg-id="Evento2.co@LigaBetPlay" tvg-logo="https://imgur.com/a/OoUbxI7" group-title="Eventos",Santa Fe vs Jaguares de Córdoba
 http://209.46.124.99:8081/evento/2.m3u8
 #EXTINF:-1 tvg-id="Evento3.br@CopaDoBrasil" tvg-logo="https://assets.football-logos.cc/logos/brazil/1500x1500/copa-do-brasil.b467a942.png" group-title="Eventos",Cruzeiro vs Atlético Mineiro
 http://209.46.124.99:8081/evento/3.m3u8
