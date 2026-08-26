@@ -81,8 +81,10 @@ http://209.46.124.99:8081/canal/20.m3u8
 http://209.46.124.99:8081/canal/21.m3u8
 #EXTINF:-1 tvg-id="TUDN.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tudn-us.png" group-title="Deportes",TUDN
 http://209.46.124.99:8081/canal/22.m3u8
-#EXTINF:-1 tvg-id="beINSportsXtra.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-title="Deportes",BeIN Sports Xtra
+#EXTINF:-1 tvg-id="TyCSports.ar@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tyc-sports-ar.png" group-title="Deportes",TyC Sports
 http://209.46.124.99:8081/canal/23.m3u8
+#EXTINF:-1 tvg-id="beINSportsXtra.us@Panregional" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bein-sports-xtra-us.png" group-title="Deportes",BeIN Sports Xtra
+http://209.46.124.99:8081/canal/24.m3u8
 
 #--------------------------------------------------------------------
 #  ⚽  EVENTOS EN VIVO  ⚽
