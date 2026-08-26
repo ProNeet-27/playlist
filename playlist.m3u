@@ -94,7 +94,7 @@ http://209.46.124.99:8081/evento/1.m3u8
 #EXTINF:-1 tvg-id="Evento2.co@LigaBetPlay" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligacokombiabetplay.png" group-title="Eventos",Boyacá Chicó vs Fortaleza CEIF
 http://209.46.124.99:8081/evento/2.m3u8
 #EXTINF:-1 tvg-id="Evento5.ec@CopaEcuador" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Copa%20ecuador.png" group-title="Eventos",LDU Quito vs Aucas
-http://209.46.124.99:8081/evento/5.m3u8
+https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 
 
 
