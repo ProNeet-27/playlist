@@ -89,24 +89,14 @@ http://209.46.124.99:8081/canal/24.m3u8
 #--------------------------------------------------------------------
 #  ⚽  EVENTOS EN VIVO  ⚽
 #--------------------------------------------------------------------
-#EXTINF:-1 tvg-id="Evento1.eng@EFLCup" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Eflcup.png" group-title="Eventos",Tottenham Hotspur vs Charlton Athletic
+#EXTINF:-1 tvg-id="Evento1.ar@CopaArgentina" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Copa%20argentina.png" group-title="Eventos",Aldosivi vs Independiente Rivadavia
 http://209.46.124.99:8081/evento/1.m3u8
-#EXTINF:-1 tvg-id="Evento4.uefa@ChampionsLeague" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Championsleague.png" group-title="Eventos",Viking vs Dinamo Zagreb
-http://209.46.124.99:8081/evento/4.m3u8
-#EXTINF:-1 tvg-id="Evento5.uefa@ChampionsLeague" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Championsleague.png" group-title="Eventos",AEK Athens vs Levski Sofia
+#EXTINF:-1 tvg-id="Evento2.co@LigaBetPlay" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligacokombiabetplay.png" group-title="Eventos",Boyacá Chicó vs Fortaleza CEIF
+http://209.46.124.99:8081/evento/2.m3u8
+#EXTINF:-1 tvg-id="Evento5.ec@CopaEcuador" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Copa%20ecuador.png" group-title="Eventos",LDU Quito vs Aucas
 http://209.46.124.99:8081/evento/5.m3u8
-#EXTINF:-1 tvg-id="Evento6.eng@EFLCup" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Eflcup.png" group-title="Eventos",Preston North End vs Everton
-http://209.46.124.99:8081/evento/6.m3u8
-#EXTINF:-1 tvg-id="Evento7.es@LaLiga" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Laligaespana.png" group-title="Eventos",Real Madrid vs Real Sociedad
-http://209.46.124.99:8081/evento/7.m3u8
-#EXTINF:-1 tvg-id="Evento8.uefa@ChampionsLeague" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Championsleague.png" group-title="Eventos",Olympique Lyonnais vs Fenerbahçe
-http://209.46.124.99:8081/evento/8.m3u8
-#EXTINF:-1 tvg-id="Evento9.uefa@ChampionsLeague" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Championsleague.png" group-title="Eventos",Celje vs Slovan Bratislava
-http://209.46.124.99:8081/evento/9.m3u8
-#EXTINF:-1 tvg-id="Evento11.eng@EFLCup" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Eflcup.png" group-title="Eventos",Newcastle United vs West Bromwich Albion
-http://209.46.124.99:8081/evento/11.m3u8
-#EXTINF:-1 tvg-id="Evento12.eng@EFLCup" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Eflcup.png" group-title="Eventos",Bradford City vs Burnley
-http://209.46.124.99:8081/evento/12.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1920px-Fox_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Deportes",Fox Sports 1 (1080p)
