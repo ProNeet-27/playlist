@@ -89,18 +89,8 @@ http://209.46.124.99:8081/canal/24.m3u8
 #--------------------------------------------------------------------
 #  ⚽  EVENTOS EN VIVO  ⚽
 #--------------------------------------------------------------------
-#EXTINF:-1 tvg-id="Evento1.conmebol@Libertadores" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/copalibertadores.png" group-title="Eventos",River Plate vs Boca Juniors
+#EXTINF:-1 tvg-id="Evento1.eng@EFLCup" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Eflcup.png" group-title="Eventos",Tottenham Hotspur vs Charlton Athletic
 http://209.46.124.99:8081/evento/1.m3u8
-#EXTINF:-1 tvg-id="Evento2.eng@PremierLeague" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Premierleague.png" group-title="Eventos",Manchester United vs Liverpool
-http://209.46.124.99:8081/evento/2.m3u8
-#EXTINF:-1 tvg-id="Evento3.es@LaLiga" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Laligaespana.png" group-title="Eventos",Barcelona vs Real Madrid
-http://209.46.124.99:8081/evento/3.m3u8
-#EXTINF:-1 tvg-id="Evento4.br@CopaDoBrasil" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Copadobrasil%20(1).png" group-title="Eventos",Flamengo vs Palmeiras
-http://209.46.124.99:8081/evento/4.m3u8
-#EXTINF:-1 tvg-id="Evento5.mx@LigaMX" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligamx.png" group-title="Eventos",América vs Chivas
-http://209.46.124.99:8081/evento/5.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1920px-Fox_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Deportes",Fox Sports 1 (1080p)
