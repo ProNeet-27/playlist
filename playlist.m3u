@@ -91,11 +91,14 @@ http://209.46.124.99:8081/canal/24.m3u8
 #--------------------------------------------------------------------
 #EXTINF:-1 tvg-id="Evento1.ar@CopaArgentina" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Copa%20argentina.png" group-title="Eventos",Aldosivi vs Independiente Rivadavia
 http://209.46.124.99:8081/evento/1.m3u8
-#EXTINF:-1 tvg-id="Evento2.co@LigaBetPlay" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligacokombiabetplay.png" group-title="Eventos",Boyacá Chicó vs Fortaleza CEIF
+#EXTINF:-1 tvg-id="Evento2.us@LeaguesCup" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/League%20cup.png" group-title="Eventos",Toluca vs Austin
 http://209.46.124.99:8081/evento/2.m3u8
-#EXTINF:-1 tvg-id="Evento5.ec@CopaEcuador" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Copa%20ecuador.png" group-title="Eventos",LDU Quito vs Aucas
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Evento3.co@LigaBetPlay" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligacokombiabetplay.png" group-title="Eventos",América de Cali vs Junior
+http://209.46.124.99:8081/evento/3.m3u8
+#EXTINF:-1 tvg-id="Evento4.conmebol@CopaSudamericana" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/copasudamericana.png" group-title="Eventos",River Plate vs Santa Fe
+http://209.46.124.99:8081/evento/4.m3u8
+#EXTINF:-1 tvg-id="Evento5.br@CopaDoBrasil" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Copadobrasil%20(1).png" group-title="Eventos",Palmeiras vs Santos
+http://209.46.124.99:8081/evento/5.m3u8
 
 
 
