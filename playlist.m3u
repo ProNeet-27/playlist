@@ -89,30 +89,38 @@ http://209.46.124.99:8081/canal/24.m3u8
 #--------------------------------------------------------------------
 #  ⚽  EVENTOS EN VIVO  ⚽
 #--------------------------------------------------------------------
-#EXTINF:-1 tvg-id="Evento2.co@LigaBetPlay" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligacokombiabetplay.png" group-title="Eventos",Rionegro Águilas vs Boyacá Chicó
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/chile-primera-logo-600x400%20%281%29.png" group-title="Eventos",Univ. Concepción vs Universidad Chile
+http://209.46.124.99:8081/evento/1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligacokombiabetplay.png" group-title="Eventos",Rionegro Águilas vs Boyacá Chicó
 http://209.46.124.99:8081/evento/2.m3u8
-#EXTINF:-1 tvg-id="Evento3.br@Brasileirao" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Brasileirao.png" group-title="Eventos",Flamengo vs Botafogo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Brasileirao.png" group-title="Eventos",Flamengo vs Botafogo
 http://209.46.124.99:8081/evento/3.m3u8
-#EXTINF:-1 tvg-id="Evento4.py@PrimeraDivision" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Liga%20Paraguay.png" group-title="Eventos",Cerro Porteño vs Libertad
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Liga%20Paraguay.png" group-title="Eventos",Cerro Porteño vs Libertad
 http://209.46.124.99:8081/evento/4.m3u8
-#EXTINF:-1 tvg-id="Evento5.br@Brasileirao" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Brasileirao.png" group-title="Eventos",Corinthians vs Santos
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Brasileirao.png" group-title="Eventos",Corinthians vs Santos
 http://209.46.124.99:8081/evento/5.m3u8
-#EXTINF:-1 tvg-id="Evento6.fr@Ligue1" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Liga1francia.png" group-title="Eventos",Monaco vs Olympique Marseille
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Laligaespana.png" group-title="Eventos",Celta de Vigo vs Athletic Club
 http://209.46.124.99:8081/evento/6.m3u8
-#EXTINF:-1 tvg-id="Evento7.it@SerieA" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/SerieA.png" group-title="Eventos",Cagliari vs Internazionale
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Liga2espana.png" group-title="Eventos",Córdoba vs Granada
 http://209.46.124.99:8081/evento/7.m3u8
-#EXTINF:-1 tvg-id="Evento8.uy@PrimeraDivision" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/LigaUruguay.png" group-title="Eventos",Peñarol vs Nacional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/LigaUruguay.png" group-title="Eventos",Peñarol vs Nacional
 http://209.46.124.99:8081/evento/8.m3u8
-#EXTINF:-1 tvg-id="Evento10.pe@Liga1" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Liga1peru.png" group-title="Eventos",ADT vs Sport Huancayo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/S%C3%BCper%20Lig%20%28Turqu%C3%ADa%29.png" group-title="Eventos",Samsunspor vs Fenerbahçe
+http://209.46.124.99:8081/evento/9.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Liga1peru.png" group-title="Eventos",ADT vs Sport Huancayo
 http://209.46.124.99:8081/evento/10.m3u8
-#EXTINF:-1 tvg-id="Evento11.ar@LigaProfesional" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligaargentina.png" group-title="Eventos",Banfield vs River Plate
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligaargentina.png" group-title="Eventos",Banfield vs River Plate
 http://209.46.124.99:8081/evento/11.m3u8
-#EXTINF:-1 tvg-id="Evento13.es@LaLiga" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Laligaespana.png" group-title="Eventos",Deportivo La Coruña vs Valencia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Liga%20Profesional%20Saud%C3%AD.png" group-title="Eventos",Al Quadisiya vs Al Faisaly
+http://209.46.124.99:8081/evento/12.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Laligaespana.png" group-title="Eventos",Deportivo La Coruña vs Valencia
 http://209.46.124.99:8081/evento/13.m3u8
-#EXTINF:-1 tvg-id="Evento14.es@LaLiga2" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Liga2espana.png" group-title="Eventos",Cádiz vs Real Valladolid
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Liga1francia.png" group-title="Eventos",Monaco vs Olympique Marseille
 http://209.46.124.99:8081/evento/14.m3u8
-#EXTINF:-1 tvg-id="Evento15.es@LaLiga2" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Liga2espana.png" group-title="Eventos",Mallorca vs Ceuta
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/SerieA.png" group-title="Eventos",Cagliari vs Internazionale
 http://209.46.124.99:8081/evento/15.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/SerieA.png" group-title="Eventos",Lazio vs Genoa
+http://209.46.124.99:8081/evento/16.m3u8
 
 
 
