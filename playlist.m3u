@@ -89,23 +89,14 @@ http://209.46.124.99:8081/canal/24.m3u8
 #--------------------------------------------------------------------
 #  ⚽  EVENTOS EN VIVO  ⚽
 #--------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligacokombiabetplay.png" group-title="Eventos",Millonarios vs Inter Bogotá
+#EXTINF:-1 tvg-id="Evento1.conmebol@Libertadores" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/copalibertadores.png" group-title="Eventos",Palmeiras vs LDU Quito
 http://74.208.164.185:8081/evento/1.m3u8
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Liga%20MX%20Femenil%20-%20Logo(2026).png" group-title="Eventos",Guadalajara vs Pumas UNAM
+#EXTINF:-1 tvg-id="Evento2.conmebol@Sudamericana" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/copasudamericana.png" group-title="Eventos",Santos vs Atlético Mineiro
 http://74.208.164.185:8081/evento/2.m3u8
-#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/Special:FilePath/Liga%20MX%20Femenil%20-%20Logo(2026).png" group-title="Eventos",Atlético San Luis vs Atlas
+#EXTINF:-1 tvg-id="Evento3.ar@CopaArgentina" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Copa%20argentina.png" group-title="Eventos",Deportivo Riestra vs Banfield
 http://74.208.164.185:8081/evento/3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligaargentina.png" group-title="Eventos",Independiente Rivadavia vs Racing Club
+#EXTINF:-1 tvg-id="Evento4.pt@PrimeiraLiga" tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Primeira%20Liga%20(Portugal).png" group-title="Eventos",Moreirense vs Benfica
 http://74.208.164.185:8081/evento/4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligamx.png" group-title="Eventos",Toluca vs Juárez
-http://74.208.164.185:8081/evento/5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/chile-primera-logo-600x400%20%281%29.png" group-title="Eventos",Coquimbo Unido vs Huachipato
-http://74.208.164.185:8081/evento/6.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Liga1peru.png" group-title="Eventos",Cienciano vs Cusco
-http://74.208.164.185:8081/evento/8.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ProNeet-27/tv-logo/main/Ligacokombiabetplay.png" group-title="Eventos",Deportivo Cali vs Atlético Bucaramanga
-http://74.208.164.185:8081/evento/9.m3u8
-
 
 
 #EXTINF:-1 tvg-id="FoxSports1.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/1920px-Fox_Sports_1_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail" group-title="Deportes",Fox Sports 1 (1080p)
